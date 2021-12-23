@@ -1,0 +1,14 @@
+title: Language Learning
+author:
+  name: Garbaz
+  #email: garbaz@t-online.de
+# description: 
+# header_pages: 
+
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  date_format: "%Y-%m-%d"
+  social_links:
+    github: "Garbaz"
+    discord: "Garbaz#2585"
